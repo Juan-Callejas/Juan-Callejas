@@ -1,4 +1,4 @@
-<h3 align="left">Hi My Name Is Juan an I'm a aprendiz I from SENA</h3>
+<h3 align="left">Hi My Name Is Juan and I'm a aprendiz I from SENA</h3>
 
 ###
 
@@ -34,12 +34,12 @@
   <a href="https://www.facebook.com/share/16Lp4HhUpH/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Juan-Callejas/Juan-Callejas/output/snake.svg" alt="Snake animation" />
 
 ###
