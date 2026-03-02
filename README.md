@@ -79,7 +79,7 @@ Python, Django, HTML, CSS, JavaScript, SQLite
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://wa.me/573XXXXXXXXX" target="_blank">
+<a href="https://wa.me/573115249186" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge"/>
 </a>
 
