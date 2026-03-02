@@ -1,4 +1,4 @@
-<h3 align="left">Hi My Name Is Juan and I'm a aprendiz I from SENA</h3>
+<h3 align="left">Hi My Name Is Juan, Technologist - Software Analysis and Development </h3>
 
 ###
 
