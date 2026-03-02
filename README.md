@@ -63,18 +63,6 @@ Python, Django, HTML, CSS, JavaScript, SQLite
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Juan-Callejas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Callejas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📫 Contact
 
 <div align="left">
